@@ -93,8 +93,13 @@ For each received weather update:
 ```
 3.run Script
 <<<<<<< HEAD
+<<<<<<< HEAD
 ```sh
     npm run dev
+=======
+  ```sh
+  npm run dev
+>>>>>>> 6884c84639db9baaf918732b3fd17227f3d80f23
 =======
   ```sh
   npm run dev
