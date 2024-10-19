@@ -92,19 +92,10 @@ For each received weather update:
     npm i
 ```
 3.run Script
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ```sh
     npm run dev
-=======
-  ```sh
-  npm run dev
->>>>>>> 6884c84639db9baaf918732b3fd17227f3d80f23
-=======
-  ```sh
-  npm run dev
->>>>>>> 6884c84639db9baaf918732b3fd17227f3d80f23
-```
+  ```
 ## Viewing Visualizations
 -The application will display daily weather summaries, historical trends, and triggered alerts on the web interface.
 
