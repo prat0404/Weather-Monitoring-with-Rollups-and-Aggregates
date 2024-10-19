@@ -82,7 +82,7 @@ For each received weather update:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/username/weather-monitoring-system.git
+   git clone https://github.com/prat0404/Weather-Monitoring-with-Rollups-and-Aggregates.git
    cd weather-wen-app/frontend
    ```
 
@@ -92,7 +92,8 @@ For each received weather update:
     npm i
 ```
 3.run Script
-  ```npm run dev
+  ```sh
+  npm run dev
 ```
 ## Viewing Visualizations
 -The application will display daily weather summaries, historical trends, and triggered alerts on the web interface.
